@@ -1,0 +1,1 @@
+In Order to create the CSV files (brightness.csv, contrast.csv, exposure.csv, shadow.csv, tint.csv) you need to add training images of input images and expected output images with the same name in Training_Data folder
